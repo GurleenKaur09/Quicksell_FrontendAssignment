@@ -4,9 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "install-client": "cd client && npm install",
-    "build-client": "cd client && npm run build",
-    "start-client": "cd client && npm run start"
+    "install-client": "cd my-react-app && npm install",
+    "build-client": "cd my-react-app && npm run build",
+    "start-client": "cd my-react-app && npm run start"
   },
   "repository": {
     "type": "git",
