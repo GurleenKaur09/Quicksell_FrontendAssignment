@@ -1,0 +1,21 @@
+{
+  "name": "quicksell_frontendassignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "install-client": "cd client && npm install",
+    "build-client": "cd client && npm run build",
+    "start-client": "cd client && npm run start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GurleenKaur09/Quicksell_FrontendAssignment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GurleenKaur09/Quicksell_FrontendAssignment/issues"
+  },
+  "homepage": "https://github.com/GurleenKaur09/Quicksell_FrontendAssignment#readme"
+}
